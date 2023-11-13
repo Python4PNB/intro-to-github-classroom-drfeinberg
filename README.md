@@ -1,4 +1,4 @@
-David Feinberg
+David R. Feinberg
 
 
 # :wave: The Basics of GitHub 
